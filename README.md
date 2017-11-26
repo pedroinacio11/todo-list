@@ -1,6 +1,6 @@
 # todo-list
 
-> Lista de tarefa com Vue
+> Lista de tarefas com Vue
 
 ## Build Setup
 

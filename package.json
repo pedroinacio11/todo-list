@@ -1,8 +1,8 @@
 {
   "name": "todo-list",
   "version": "1.0.0",
-  "description": "Lista de tarefa com Vue",
-  "author": "Pedro Henrique <pedro.inaci11@gmail.com>",
+  "description": "Lista de tarefas com Vue",
+  "author": "Pedro Henrique <pedro.inacio11@gmail.com> phinacio.com",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
